@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h4>Ventas</h4>
+    <h1>
+        HOLA MUNDO
+    </h1>
 </body>
 </html>
