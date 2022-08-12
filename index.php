@@ -18,7 +18,7 @@
 
   </table>
   <form class="formulario">
-    <h1>Iniciar Sesion</h1>
+    <h1>Iniciar en Sesion</h1>
     <div class="contenedor">
     <div class="input-contenedor">
       <i class="fa-solid fa-user"></i>
