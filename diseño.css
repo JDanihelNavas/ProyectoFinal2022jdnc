@@ -37,6 +37,8 @@ input[type="password"]{
     border: 1px solid #aaa;
 }
 
+
+
 .icon{
     min-width: 50px;
     text-align: center;
@@ -79,4 +81,18 @@ p{
         margin-top: 150px;
         border-radius: 2%;
     }
+}
+
+.caja-blanca{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 400px;
+    height: 400px;
+}
+
+.caja-blanca img{
+    width: 200;
+    height: 200;
 }

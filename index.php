@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Inicio De Sesion</title>
   <script src="https://kit.fontawesome.com/05f5e822e2.js" crossorigin="anonymous"></script> 
-  <link rel="stylesheet" href="diseño.css"
+  <link rel="stylesheet" href="diseño.css">
 </head>
 <body>
   <table border="1" width="100%">
     <tr>
-        <td align="center" bgcolor=#C2C7F5><a href="Inicio.html" bgcolor="FEFEFE">Inicio</a></td>
-        <td align="center" bgcolor=#C2C7F5><a href="Tiendas.html" bgcolor="FEFEFE">Tiendas</a></td>
-        <td align="center" bgcolor=#C2C7F5><a href="Contactenos.html" bgcolor="FEFEFE">Contactenos</a></td>
+        <td align="center" bgcolor=#C2C7F5><a href="Inicio.php" bgcolor="FEFEFE">Inicio</a></td>
+        <td align="center" bgcolor=#C2C7F5><a href="Tiendas.php" bgcolor="FEFEFE">Tiendas</a></td>
+        <td align="center" bgcolor=#C2C7F5><a href="Contactenos.php" bgcolor="FEFEFE">Contactenos</a></td>
     </tr>
 
   </table>
@@ -34,7 +34,7 @@
     </div>
   </form>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <table border="1" width="100%">
 <tr>
