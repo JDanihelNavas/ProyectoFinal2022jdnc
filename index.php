@@ -18,7 +18,7 @@
 
   </table>
   <form class="formulario">
-    <h1>Iniciar en Sesion</h1>
+    <h1>Iniciar Sesion</h1>
     <div class="contenedor">
     <div class="input-contenedor">
       <i class="fa-solid fa-user"></i>
@@ -34,7 +34,14 @@
     </div>
   </form>
 
-<br><br><br><br><br><br><br><br><br><br><br>
+  <section class="a">
+       <form action="Inicio.php">
+         <input type="submit" value="Iniciar Sesion">
+    </form>
+    </section>
+  
+
+<br><br><br><br><br><br><br><br><br><br>
 
 <table border="1" width="100%">
 <tr>
@@ -46,3 +53,5 @@
 </table>
 </body>
 </html>
+
+
