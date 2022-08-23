@@ -6,16 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Inicio De Sesion</title>
   <script src="https://kit.fontawesome.com/05f5e822e2.js" crossorigin="anonymous"></script> 
+  <link rel="stylesheet" href="bootsrap.min.css">
   <link rel="stylesheet" href="diseño.css">
 </head>
 <body>
-  <table border="1" width="100%">
-    <tr>
-        <td align="center" bgcolor=#C2C7F5><a href="Inicio.php" bgcolor="FEFEFE">Inicio</a></td>
-        <td align="center" bgcolor=#C2C7F5><a href="Tiendas.php" bgcolor="FEFEFE">Tiendas</a></td>
-        <td align="center" bgcolor=#C2C7F5><a href="Contactenos.php" bgcolor="FEFEFE">Contactenos</a></td>
-    </tr>
-
   </table>
   <form class="formulario">
     <h1>Iniciar Sesion</h1>
@@ -43,13 +37,77 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<table border="1" width="100%">
-<tr>
-  <td bgcolor=#AA60F8 style="color: white"> PBX: 4885-6257 </td>
-  <td bgcolor=#AA60F8 style="color: white">Direccion: 33av 9-50 z.12 Guatemala </td>
-  <td bgcolor=#AA60F8 style="color: white">Carné: 2021-40289 </td>
-  <td bgcolor=#AA60F8 style="color: white">Josue Danihel Navas Cruz </td>
-</tr>
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Type</th>
+      <th scope="col">Column heading</th>
+      <th scope="col">Column heading</th>
+      <th scope="col">Column heading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      <th scope="row">Active</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr>
+      <th scope="row">Default</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">Primary</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="table-secondary">
+      <th scope="row">Secondary</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="table-success">
+      <th scope="row">Success</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="table-danger">
+      <th scope="row">Danger</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="table-warning">
+      <th scope="row">Warning</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="table-info">
+      <th scope="row">Info</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="table-light">
+      <th scope="row">Light</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="table-dark">
+      <th scope="row">Dark</th>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+  </tbody>
 </table>
 </body>
 </html>

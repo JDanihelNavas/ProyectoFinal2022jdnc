@@ -2,7 +2,10 @@ body{
 
     margin: 0;
     font-family:Georgia, 'Times New Roman', Times, serif ;
-    background: white;
+    background-image:url(images/fondos.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
   
 }
 

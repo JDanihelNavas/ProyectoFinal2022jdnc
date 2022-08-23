@@ -9,14 +9,14 @@
 </head>
 <body>
 <div class = "caja-blanca">
-    <img src="images/C10008162.jpg">
+
 </div>
 
 <table border="1" width="100%">
     <tr>
-        <td align="center" bgcolor=#C2C7F5><a href="Inicio.php" bgcolor="FEFEFE">Inicio</a></td>
-        <td align="center" bgcolor=#C2C7F5><a href="Tiendas.php" bgcolor="FEFEFE">Tiendas</a></td>
-        <td align="center" bgcolor=#C2C7F5><a href="Contactenos.php" bgcolor="FEFEFE">Contactenos</a></td>
+        <td align="center" bgcolor=#E0C904><a href="Inicio.php" bgcolor=#E0C904>Inicio</a></td>
+        <td align="center" bgcolor=#E0C904><a href="Tiendas.php" bgcolor=#E0C904>Tiendas</a></td>
+        <td align="center" bgcolor=#E0C904><a href="Contactenos.php" bgcolor=#E0C904>Contactenos</a></td>
     </tr>
 
   </table>
