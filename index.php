@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Inicio De Sesion</title>
   <script src="https://kit.fontawesome.com/05f5e822e2.js" crossorigin="anonymous"></script> 
-  <link rel="stylesheet" href="bootsrap.min.css">
+  <link rel="stylesheet" href="bootstrap.min.css">
   <link rel="stylesheet" href="diseño.css">
 </head>
 <body>
@@ -24,88 +24,23 @@
       <i class="fa-solid fa-key"></i>
     <input type="password" planceholder="Contraseña">
     </div>
-    <input type="submit" value="Iniciar Secion" class="button">
-    </div>
-  </form>
-
-  <section class="a">
-       <form action="Inicio.php">
+    <section class="a">
+       <form action="inicio.html">
          <input type="submit" value="Iniciar Sesion">
     </form>
     </section>
+    </div>
+  </form>
+
+
   
 
 <br><br><br><br><br><br><br><br><br><br>
-
 <table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col">Type</th>
-      <th scope="col">Column heading</th>
-      <th scope="col">Column heading</th>
-      <th scope="col">Column heading</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="table-active">
-      <th scope="row">Active</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr>
-      <th scope="row">Default</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr class="table-primary">
-      <th scope="row">Primary</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr class="table-secondary">
-      <th scope="row">Secondary</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr class="table-success">
-      <th scope="row">Success</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr class="table-danger">
-      <th scope="row">Danger</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr class="table-warning">
-      <th scope="row">Warning</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr class="table-info">
-      <th scope="row">Info</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr class="table-light">
-      <th scope="row">Light</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
-    </tr>
-    <tr class="table-dark">
-      <th scope="row">Dark</th>
-      <td>Column content</td>
-      <td>Column content</td>
-      <td>Column content</td>
+<tr class="table-dark">
+      <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>
+      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Carne: 2021-40289</font></font></td>
+      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nombre: Josue Danihel Navas Cruz</font></font></td>
     </tr>
   </tbody>
 </table>

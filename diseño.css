@@ -2,7 +2,7 @@ body{
 
     margin: 0;
     font-family:Georgia, 'Times New Roman', Times, serif ;
-    background-image:url(images/fondos.jpg);
+    background-image:url(images/fondillo.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
@@ -19,7 +19,7 @@ body{
 }
 
 .formulario {
-    background: gainsboro;
+    background: #B9850E;
     margin-top: 150px;
     padding: 3px;
 }
@@ -37,7 +37,7 @@ input[type="password"]{
 }
 .input-contenedor{
     margin-bottom: 15px;
-    border: 1px solid #aaa;
+    border: 1px solid #B9850E;
 }
 
 
@@ -45,12 +45,12 @@ input[type="password"]{
 .icon{
     min-width: 50px;
     text-align: center;
-    color: #999;
+    color: #B9850E;
 }
 .button{
     border: none;
     width: 100%;
-    color: white;
+    color: #B9850E;
     font-size: 20 px;
     background: #1a2537;
     padding: 15 px 20 px;
