@@ -10,21 +10,22 @@
   <link rel="stylesheet" href="diseño.css">
 </head>
 <body>
-  </table>
-  <form class="formulario">
-    <h1>Iniciar Sesion</h1>
-    <div class="contenedor">
-    <div class="input-contenedor">
-      <i class="fa-solid fa-user"></i>
-    <input type="text" planceholder="Nombre Completo">
-    </div>
+<br><br>
+<div class="form-group"  align="center">
+  <label class="form-label mt-4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">INICIAR SESION</font></font></label>
+  <div class="form-floating mb-3">
+    <input type="email" class="form-control" id="floatingInput" placeholder="nombre@ejemplo.com">
+    <label for="floatingInput"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Usuario</font></font></label>
+  </div>
 
 
-    <div class="input-contenedor">
-      <i class="fa-solid fa-key"></i>
-    <input type="password" planceholder="Contraseña">
-    </div>
-    <section class="a">
+<div class="form-floating">
+    <input type="password" class="form-control" id="floatingPassword" placeholder="Clave">
+    <label for="floatingPassword"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contraseña</font></font></label>
+  </div>
+</div>
+
+    <section class="a" align="center">
        <form action="inicio.html">
          <input type="submit" value="Iniciar Sesion">
     </form>
@@ -35,16 +36,14 @@
 
   
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <table class="table table-hover">
-<tr class="table-dark">
-      <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Carne: 2021-40289</font></font></td>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nombre: Josue Danihel Navas Cruz</font></font></td>
+<tr class="table-warning">
+      <td scope="row">PBX 4785-0205</td>
+      <td scope="row"> Carne: 2021-40289</td>
+      <td scope="row">Nombre: Josue Danihel Navas Cruz</td>
     </tr>
   </tbody>
 </table>
 </body>
 </html>
-
-

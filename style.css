@@ -1,0 +1,57 @@
+.body{
+    background-color:  #FFD26C ;
+}
+
+.container{
+ background-color: #FFD26C;
+ 
+}
+
+
+
+.btn1{
+    background-color: yellow;
+    border: 10px;
+    padding: 25px 45px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: skyblue;
+    border: 10px;
+    padding: 25px 45px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn3{
+    background-color: purple;
+    border: 10px;
+    padding: 25px 45px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.image2{
+    float: right;
+    width: 300px;
+    height: 400px;
+
+}
+
+.img1{
+
+}
+
+
