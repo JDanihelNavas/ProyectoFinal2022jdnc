@@ -8,35 +8,28 @@
   <script src="https://kit.fontawesome.com/05f5e822e2.js" crossorigin="anonymous"></script> 
   <link rel="stylesheet" href="bootstrap.min.css">
   <link rel="stylesheet" href="diseño.css">
+  <script src="login.js"></script>
 </head>
 <body>
-<br><br>
-<div class="form-group"  align="center">
-  <label class="form-label mt-4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">INICIAR SESION</font></font></label>
-  <div class="form-floating mb-3">
-    <input type="email" class="form-control" id="floatingInput" placeholder="nombre@ejemplo.com">
-    <label for="floatingInput"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Usuario</font></font></label>
-  </div>
-
-
-<div class="form-floating">
-    <input type="password" class="form-control" id="floatingPassword" placeholder="Clave">
-    <label for="floatingPassword"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contraseña</font></font></label>
-  </div>
-</div>
-
-    <section class="a" align="center">
-       <form action="inicio.html">
-         <input type="submit" value="Iniciar Sesion">
-    </form>
-    </section>
+  <br>
+    <h1 align="center">INICIAR SESION</h1>
+    
+  <div class="container">
+    <div class="main">
+      <img src="images/LOGO.jpg">
+      <form id="form_id" method="POST" name="myform">
+        <label>Usuario</label>
+        <input type="text" name="usuar" id="usuar" placeholder="Ingrese Su Usuario">
+        <label>Contraseña</label>
+        <input type="password" name="password" id="password" placeholder="Ingrese su Contraseña">
+        <input type="button" value="Login" id="sumit" onclick="validate()">
+      </form>
     </div>
-  </form>
-
+  </div>
 
   
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <table class="table table-hover">
 <tr class="table-warning">
       <td scope="row">PBX 4785-0205</td>
