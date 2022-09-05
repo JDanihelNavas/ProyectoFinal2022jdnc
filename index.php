@@ -29,14 +29,5 @@
 
   
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<table class="table table-hover">
-<tr class="table-warning">
-      <td scope="row">PBX 4785-0205</td>
-      <td scope="row"> Carne: 2021-40289</td>
-      <td scope="row">Nombre: Josue Danihel Navas Cruz</td>
-    </tr>
-  </tbody>
-</table>
 </body>
 </html>
