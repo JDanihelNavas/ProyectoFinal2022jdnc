@@ -6,22 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="tractor.css">
-    <link rel="stylesheet" href="style.css">
-    <title>Tractor Industrial</title>
+    <link rel="stylesheet" href="inicio1.css">
+    <link rel="stylesheet" href="incolor.css">
+    <title>Tractor Enllantado</title>
 </head>
 <body>
+    <br><br>
+    <a href="productos.php" class="btn1"> Productos/Servicios </a>
+    <a href="Tiendas.php" class="btn2">Tiendas</a>
+    <a href="Contactenos.php" class="btn3" >Contactenos</a>
+    <br><br>
     <div class="container">
-        <a href="productos.php" class="btn1"> Productos/Servicios </a>
-        <a href="Tiendas.php" class="btn2">Tiendas</a>
-        <a href="Contactenos.php" class="btn3" >Contactenos</a>
       
-        <img src="images/Enllanta.jpg">
-        <h3>TRACTOR ENLLANTADO</h3>
-        <P>Este tractor va destinadlo cuando se necesita una mayor velocidad, mayor distancia y que no se requiere mucha tracción.</P>
-        <br>
-        <a href="#" class="btn3">Comprar Ahora</a>
+        <center><img src="images/Enllanta.jpg"></center>
+        <h3 align="center" style="color:white;">TRACTOR ENLLANTADO</h3>
+        <P align="center" style="color:white;">Este tractor va destinadlo cuando se necesita una mayor velocidad, mayor distancia y que no se requiere mucha tracción.</P>
+        <br><br>
+        <center><a href="#" class="btn3">Comprar Ahora</a></center>
     </div>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br>
     <table class="table table-hover">
         <tr class="table-dark">
               <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>

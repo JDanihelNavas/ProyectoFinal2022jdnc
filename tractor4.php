@@ -6,22 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="tractor.css">
-    <link rel="stylesheet" href="style.css">
-    <title>Tractor Industrial</title>
+    <link rel="stylesheet" href="inicio1.css">
+    <link rel="stylesheet" href="incolor.css">
+    <title>Tractor De Arco</title>
 </head>
 <body>
+    <br><br>
+    <a href="productos.php" class="btn1"> Productos/Servicios </a>
+    <a href="Tiendas.php" class="btn2">Tiendas</a>
+    <a href="Contactenos.php" class="btn3" >Contactenos</a>
+    <br><br>
     <div class="container">
-        <a href="productos.php" class="btn1"> Productos/Servicios </a>
-        <a href="Tiendas.php" class="btn2">Tiendas</a>
-        <a href="Contactenos.php" class="btn3" >Contactenos</a>
-      
-        <img src="images/arco.jpg">
-        <h3>TRACTOR DE ARCO</h3>
-        <P>Las aplicaciones de cultivos de alto valor requieren la capacidad de tirar de los implementos y realizar operaciones de cosecha en hileras de diferentes anchuras sin dañar el cultivo.</P>
+       
+        <center><img src="images/arco.jpg"></center>
+        <h3 align="center" style="color:white;">TRACTOR DE ARCO</h3>
+        <P align="center" style="color:white;">Las aplicaciones de cultivos de alto valor requieren la capacidad de tirar de los implementos y realizar operaciones de cosecha en hileras de diferentes anchuras sin dañar el cultivo.</P>
         <br>
-        <a href="#" class="btn3">Comprar Ahora</a>
+         <center><a href="#" class="btn3">Comprar Ahora</a></center>
     </div>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <br><br><br>
     <table class="table table-hover">
         <tr class="table-dark">
               <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>

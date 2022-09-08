@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="mensajes.css">
+    <link rel="stylesheet" href="incolor.css">
     <script src="login2.js"></script>
     <title>Iniciar Sesion</title>
 </head>
@@ -20,7 +21,7 @@
             
             <div class="row">                
                 <div class="iconmelon">
-                  <br><br><br><h1>INICIAR SESION</h1>
+                  <br><br><br><h1 align="center" style="color:white;">INICIAR SESION</h1>
                 </div>
             </div>
         
@@ -42,7 +43,9 @@
 </div>
 </div>
 </div>
+        
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ <center><a href="index.php"><button id="salir" style="background-color:red;">Cerrar Sesion</button></a></center>
   <table class="table table-hover">
   <tr class="table-dark">
         <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>

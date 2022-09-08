@@ -6,22 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="tractor.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="inicio1.css">
+    <link rel="stylesheet" href="incolor.css">
     <title>Tractor Industrial</title>
 </head>
-<body>
+<body><br><br>
+    <a href="productos.php" class="btn1"> Productos/Servicios </a>
+    <a href="Tiendas.php" class="btn2">Tiendas</a>
+    <a href="Contactenos.php" class="btn3" >Contactenos</a>
+    <br><br>
     <div class="container">
-        <a href="productos.php" class="btn1"> Productos/Servicios </a>
-        <a href="Tiendas.php" class="btn2">Tiendas</a>
-        <a href="Contactenos.php" class="btn3" >Contactenos</a>
+    
       
-        <img src="images/industrial.jpg">
-        <h3>TRACTOR INDUSTRIAL</h3>
-        <P>Estos, como su nombre indica, se utilizan principalmente en la industria más que en la agricultura. Antiguamente, estos tractores se llamaban remolcadores. Estos, se utilizan principalmente para tirar de cargas pesadas y adaptar las grúas para levantar pesos pesados ​​fácilmente.</P>
+        <center><img src="images/industrial.jpg"></center>
+        <h3 align="center" style="color:white;">TRACTOR INDUSTRIAL</h3>
+        <P align="center" style="color:white;">Estos, como su nombre indica, se utilizan principalmente en la industria más que en la agricultura. Antiguamente, estos tractores se llamaban remolcadores. Estos, se utilizan principalmente para tirar de cargas pesadas y adaptar las grúas para levantar pesos pesados ​​fácilmente.</P>
         <br>
-        <a href="#" class="btn3">Comprar Ahora</a>
+        <center><a href="#" class="btn3">Comprar Ahora</a></center>
     </div>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br>
     <table class="table table-hover">
         <tr class="table-dark">
               <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>

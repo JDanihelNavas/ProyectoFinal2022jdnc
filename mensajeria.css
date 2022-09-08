@@ -1,0 +1,44 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.btn1{
+    background-color: yellow;
+    border: 10px;
+    padding: 25px 45px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: skyblue;
+    border: 10px;
+    padding: 25px 45px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn3{
+    background-color: purple;
+    border: 10px;
+    padding: 25px 45px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+

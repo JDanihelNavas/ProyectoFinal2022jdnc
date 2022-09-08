@@ -2,8 +2,8 @@
 session_start();
 $conectar=mysqli_connect(
     'localhost',
-    'root',
-    '',
-    'pcc2022_evalfinal'
+    'id19113370_josue',
+    'XAObqZqbQ2s+D%S0',
+    'id19113370_pc_evalfinal2022'
 );
 ?>

@@ -6,6 +6,8 @@
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="diseño1.css">
 <link rel="stylesheet" href="diseño2.css">
+<link rel="stylesheet" href="inicio.css">
+<link rel="stylesheet" href="incolor.css">
 <table width="100%">
  <tr>
  <td colspan="12" align="center">
@@ -39,28 +41,28 @@
      </button>
      </div>
     </table>
-<div class="container">
+<br>
   <a href="productos.php" class="btn1"> Productos/Servicios </a>
   <a href="Tiendas.php" class="btn2">Tiendas</a>
   <a href="Contactenos.php" class="btn3" >Contactenos</a>
 </div>
-<br>
+<br><br><br>
 
-<h1>Ofertas del mes</h1>
+<h1 style="color:aliceblue;">Ofertas del mes</h1>
 <div class="contenedor">
         <section class="a" align="center"><a href="images/num6.jpg"><img src="images/num6.jpg" width="630px" height="500px"></a></section>
         <section class="b" align="center"><img src="images/inteligent2.jpg" width="300px" height="250px"></section>
         <section class="c" align="center"><img src="images/num7.jpg" width="300px" height="250px"></section>
         <section class="d" align="center"><img src="images/num8.jpg" width="600px" height="250px"></section>
     </div>
-
+ 
 <br><br>
 
 <table class="table table-hover">
   <tr class="table-dark">
         <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>
         <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Carne: 2021-40289</font></font></td>
-        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nombre: Josue Danihel Navas Cruz</font></font></td>
+        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nombre: Josue Danihel Navas Cruz <a href="index.php"><button id="salir" style="background-color:red;">Cerrar Sesion</button></a></font></font></td>
       </tr>
     </tbody>
   </table>

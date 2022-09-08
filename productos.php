@@ -7,23 +7,25 @@
     <title>PRODUCTOS</title>
     <link rel="stylesheet" href="productoss.css">
     <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
+     <link rel="stylesheet" href="produ.css">
+   
 
 </head>
 <body> 
+    <br> 
+     <a href="inicio.php" class="btn1">Inicio / pagina principal </a>
+     <a href="Tiendas.php" class="btn2">Tiendas</a>
+     <a href="Contactenos.php" class="btn3" >Contactenos</a>
 
 <div class="contenedor">
 
 </div>
 
 <br><br><br>
-<h1 align="center">PRODUCTOS Y SERVICIOS:</h1>
+<h1 align="center" style="color: aliceblue;">PRODUCTOS Y SERVICIOS:</h1>
 <br>
+     
     <div class="container">
-    <a href="inicio.php" class="btn1">Inicio / pagina principal </a>
-  <a href="Tiendas.php" class="btn2">Tiendas</a>
-  <a href="Contactenos.php" class="btn3" >Contactenos</a>
-
         <div class="card">
             <img src="images/Enllanta.jpg">
             <h3>Tractor Enllantado </h3>
@@ -108,6 +110,7 @@
             <a href="tractor12.php"><b>COMPRAR</b></a>
         
         </div>
+        <a href="index.php"><button id="salir" style="background-color:red;">Cerrar Sesion</button></a>
         
  <table class="table table-hover">
         <tr class="table-dark">
