@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="bootstrap.min.css">
   <link rel="stylesheet" href="incolor.css">
   <link rel="stylesheet" href="regis.css">
+  <link rel="icon" href="images/CATi.ico">
   <script src="login.js"></script>
 </head>
 <body>
@@ -34,12 +35,15 @@
         <label>Contraseña</label>
         <input class="w3-input" type="text" name="d"></p>
     </form>
-     <a href="inicio.php" class="btn3" align="center">Registrarse</a>
+     <center><a href="inicio.php" class="btn3" align="center">Registrarse</a>
                  </center>
+                 
               </div>
-    </div>
-    <h6 style="text-align: center; color:aliceblue;">Ya tienes cuenta? Inicia Sesion</h6>
+              
+              <h6 style="text-align: center; color:aliceblue;">Ya tienes cuenta? Inicia Sesion</h6>
     <h5 style="text-align: center; color: aliceblue;"><a href="index.php" style="text-decoration: none;">Iniciar Sesion</a></h5>
+    </div>
+    
   </div>
 
 

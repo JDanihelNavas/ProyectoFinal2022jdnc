@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="diseño2.css">
 <link rel="stylesheet" href="inicio.css">
 <link rel="stylesheet" href="incolor.css">
+ <link rel="icon" href="images/CATi.ico">
 <table width="100%">
  <tr>
  <td colspan="12" align="center">

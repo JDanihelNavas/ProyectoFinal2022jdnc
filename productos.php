@@ -7,7 +7,8 @@
     <title>PRODUCTOS</title>
     <link rel="stylesheet" href="productoss.css">
     <link rel="stylesheet" href="bootstrap.min.css">
-     <link rel="stylesheet" href="produ.css">
+    <link rel="stylesheet" href="produ.css">
+    <link rel="icon" href="images/CATi.ico">
    
 
 </head>

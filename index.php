@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="bootstrap.min.css">
   <link rel="stylesheet" href="diseño.css">
   <link rel="stylesheet" href="incolor.css">
+  <link rel="icon" href="images/CATi.ico">
   <script src="login.js"></script>
 </head>
 <body>
@@ -26,10 +27,9 @@
         <input type="button" value="Login" id="sumit" onclick="validate()">
       </form>
     </div>
-   
+    <center><h6 style="text-align: center; color:aliceblue;">No tienes cuenta? Registrate</h6>
+    <h5 style="text-align: center; color: aliceblue;"><a href="regis.php" style="text-decoration: none;">Registrarse</a></h5> </center>
   </div>
- <h6 style="text-align: center; color:aliceblue;">No tienes cuenta? Registrate</h6>
-    <h5 style="text-align: center; color: aliceblue;"><a href="regis.php" style="text-decoration: none;">Registrarse</a></h5>
 
 
 </body>

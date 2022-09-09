@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="mensajes.css">
     <link rel="stylesheet" href="incolor.css">
+    <link rel="icon" href="images/CATi.ico">
     <script src="login2.js"></script>
     <title>Iniciar Sesion</title>
 </head>

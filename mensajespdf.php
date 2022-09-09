@@ -12,6 +12,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="pdf.css">
   <link rel="stylesheet" href="incolor.css">
+  <link rel="icon" href="images/CATi.ico">
+  
   <title>Mensajes</title>
 </head>
 <body>
@@ -39,5 +41,6 @@
     <?php } ?>
   </div>
   <a href="fpd.php"><button id="pdf"><img src="images/pdf.png" width="40px"></button></a>
+
 </body>
 </html>

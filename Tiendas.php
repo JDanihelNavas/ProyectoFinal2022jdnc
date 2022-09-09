@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="tiendas.css">
     <link rel="stylesheet" href="incolor.css">
+     <link rel="icon" href="images/CATi.ico">
     <title>Tiendas</title>
 </head>
 <body>
