@@ -2,12 +2,12 @@ var attemp=3;
 function validate(){
     var usuar=document.getElementById("usuar").value;
     var password=document.getElementById("password").value;
-    if(usuar=="admin"&& password=="admin"){
+    if(usuar=="admin"&& password=="mensajes"){
         alert("Usuario y contraseña Correctos");
         window.location="mensajespdf.php";
         return false;
     }
-    if(usuar=="Admin"&& password=="Admin"){
+    if(usuar=="admin"&& password=="mensajes"){
         alert("Usuario y contraseña Correctos");
         window.location="mensajespdf.php";
         return false;

@@ -4,19 +4,42 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PRODUCTOS</title>
+    <title>Productos</title>
     <link rel="stylesheet" href="productoss.css">
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="produ.css">
+     <link rel="stylesheet" href="buttons.css">
+    
     <link rel="icon" href="images/CATi.ico">
    
 
 </head>
 <body> 
-    <br> 
-     <a href="inicio.php" class="btn1">Inicio / pagina principal </a>
-     <a href="Tiendas.php" class="btn2">Tiendas</a>
-     <a href="Contactenos.php" class="btn3" >Contactenos</a>
+       <table width="100%">
+<tr>
+  <td colspan="4">
+    <section class="a">
+      <form action="inicio.php" method="post">
+        <input type="submit" value="Inicio">
+      </form>
+    </section>
+  </td>
+  <td colspan="4">
+    <section class="b">
+      <form action="Tiendas.php" method="post">
+        <input type="submit" value="Tiendas">
+      </form>
+    </section>
+  </td>
+  <td colspan="4">
+    <section class="c">
+      <form action="Contactenos.php" method="post">
+        <input type="submit" value="Contactenos">
+      </form>
+    </section>
+  </td>
+</tr>
+</table>
 
 <div class="contenedor">
 
@@ -111,11 +134,13 @@
             <a href="tractor12.php"><b>COMPRAR</b></a>
         
         </div>
-        <a href="index.php"><button id="salir" style="background-color:red;">Cerrar Sesion</button></a>
-        
+      
+       </div>
+       <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  <table class="table table-hover">
         <tr class="table-dark">
         <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>
+             <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Direccion: 9av A 9-08 Boulevard Los Proceres z.21</font></font></td>
         <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Carne: 2021-40289</font></font></td>
         <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nombre: Josue Danihel Navas Cruz</font></font></td>
       </tr>

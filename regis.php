@@ -41,7 +41,7 @@
               </div>
               
               <h6 style="text-align: center; color:aliceblue;">Ya tienes cuenta? Inicia Sesion</h6>
-    <h5 style="text-align: center; color: aliceblue;"><a href="index.php" style="text-decoration: none;">Iniciar Sesion</a></h5>
+    <h5 style="text-align: center; color: aliceblue;"><a href="login.php" style="text-decoration: none;">Iniciar Sesion</a></h5>
     </div>
     
   </div>

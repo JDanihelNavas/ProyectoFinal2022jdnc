@@ -44,7 +44,15 @@
               </div>
     
 
-
+ <table class="table table-hover">
+  <tr class="table-dark">
+        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>
+             <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Direccion: 9av A 9-08 Boulevard Los Proceres z.21</font></font></td>
+        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Carne: 2021-40289</font></font></td>
+        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nombre: Josue Danihel Navas Cruz</font></font></td>
+      </tr>
+    </tbody>
+  </table>
 
 
 </body>

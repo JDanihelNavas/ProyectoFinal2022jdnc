@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="diseño2.css">
 <link rel="stylesheet" href="inicio.css">
 <link rel="stylesheet" href="incolor.css">
+<link rel="stylesheet" href="buttons.css">
  <link rel="icon" href="images/CATi.ico">
 <table width="100%">
  <tr>
@@ -43,9 +44,31 @@
      </div>
     </table>
 <br>
-  <a href="productos.php" class="btn1"> Productos/Servicios </a>
-  <a href="Tiendas.php" class="btn2">Tiendas</a>
-  <a href="Contactenos.php" class="btn3" >Contactenos</a>
+  <table width="100%">
+<tr>
+  <td colspan="4">
+    <section class="a">
+      <form action="productos.php" method="post">
+        <input type="submit" value="Productos">
+      </form>
+    </section>
+  </td>
+  <td colspan="4">
+    <section class="b">
+      <form action="Tiendas.php" method="post">
+        <input type="submit" value="Tiendas">
+      </form>
+    </section>
+  </td>
+  <td colspan="4">
+    <section class="c">
+      <form action="Contactenos.php" method="post">
+        <input type="submit" value="Contactenos">
+      </form>
+    </section>
+  </td>
+</tr>
+</table>
 </div>
 <br><br><br>
 
@@ -56,14 +79,14 @@
         <section class="c" align="center"><img src="images/num7.jpg" width="300px" height="250px"></section>
         <section class="d" align="center"><img src="images/num8.jpg" width="600px" height="250px"></section>
     </div>
- 
 <br><br>
-
-<table class="table table-hover">
+ 
+ <table class="table table-hover">
   <tr class="table-dark">
         <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PBX 4785-0205</font></font></th>
+             <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Direccion: 9av A 9-08 Boulevard Los Proceres z.21</font></font></td>
         <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Carne: 2021-40289</font></font></td>
-        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nombre: Josue Danihel Navas Cruz <a href="index.php"><button id="salir" style="background-color:red;">Cerrar Sesion</button></a></font></font></td>
+        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nombre: Josue Danihel Navas Cruz</font></font></td>
       </tr>
     </tbody>
   </table>

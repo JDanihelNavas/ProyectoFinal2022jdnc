@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="bootstrap.min.css">
   <link rel="stylesheet" href="diseño.css">
   <link rel="stylesheet" href="incolor.css">
-  <link rel="icon" href="images/CATi.ico">
+  <link rel="icon" type="image/x-icon" href="/images/CATi.ico">
   <script src="login.js"></script>
 </head>
 <body>

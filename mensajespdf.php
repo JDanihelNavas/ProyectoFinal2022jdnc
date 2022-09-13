@@ -12,15 +12,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="pdf.css">
   <link rel="stylesheet" href="incolor.css">
+  <link rel="stylesheet" href="buttons.css">
   <link rel="icon" href="images/CATi.ico">
   
   <title>Mensajes</title>
 </head>
 <body>
-     <br><br>
-     <a href="productos.php" class="btn1"> Productos/Servicios </a>
-    <a href="Tiendas.php" class="btn2">Tiendas</a>
-    <a href="Contactenos.php" class="btn3" >Contactenos</a>
+   <table width="100%">
+<tr>
+  <td colspan="4">
+    <section class="a">
+      <form action="productos.php" method="post">
+        <input type="submit" value="Productos">
+      </form>
+    </section>
+  </td>
+  <td colspan="4">
+    <section class="b">
+      <form action="Tiendas.php" method="post">
+        <input type="submit" value="Tiendas">
+      </form>
+    </section>
+  </td>
+  <td colspan="4">
+    <section class="c">
+      <form action="mensajes.php" method="post">
+        <input type="submit" value="Contactenos">
+      </form>
+    </section>
+  </td>
+  </td>
+</tr>
+</table>
   
     <br><br><br><br>
     <div class="container-table">
@@ -41,6 +64,7 @@
     <?php } ?>
   </div>
   <a href="fpd.php"><button id="pdf"><img src="images/pdf.png" width="40px"></button></a>
+  
 
 </body>
 </html>
